@@ -21,16 +21,14 @@
 	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
-			"name": "IIT Ropar",
-			"link": "#"
-		}
-	],
+		"name": "IIT Ropar",
+		"link": "#"
+	}],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
 	"Projects": [{
-			"name": "Github Link",
-			"link": "https://github.com/khareshivang1617"
-		},
-	],
+		"name": "Github Link",
+		"link": "https://github.com/khareshivang1617"
+	}],
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
 	"CV": "",
